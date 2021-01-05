@@ -1,14 +1,15 @@
 body{
-    background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
-    background-size: cover;
+	background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+	background-size: cover;
 }
 
 canvas{
-    z-index: 2;
+	z-index: 2;
 }
 
 .text{
-    text-align: center;
-    font-size: 28px;
-    color: darkblue;
+	text-align: center;
+	font-size: 78px;
+	font-family: cursive;
+	color: darkblue;
 }
