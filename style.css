@@ -1,5 +1,5 @@
-body{
-	background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+html{
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
 	background-size: cover;
 }
 
@@ -11,5 +11,8 @@ canvas{
 	text-align: center;
 	font-size: 78px;
 	font-family: cursive;
-	color: darkblue;
+	color: whitesmoke;
+	width: 100%;
+  top:130px;
+  position: absolute;
 }
